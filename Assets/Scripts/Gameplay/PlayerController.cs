@@ -86,7 +86,7 @@ public class PlayerController : MonoBehaviour {
     // Everyone round dock these stats.
     public void PostRoundStatUpdate()
     {
-        stamina -= 5;
+        stamina -= 10;
         hunger += 5;
         thirst += 5;
         tempature -= 5;

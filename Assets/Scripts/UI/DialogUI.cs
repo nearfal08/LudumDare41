@@ -67,7 +67,7 @@ public class DialogUI : MonoBehaviour {
         playerDialog[14] = "Wonder if my bitcoin miner is plugged in.";
         playerDialog[15] = "What if the Hokey-Pokey really is what it's all about? ";
         playerDialog[16] = "As long as I make it back by Taco Tuesday...";
-        playerDialog[17] = "I am the best climber. Everyone knows. Everyone talks about me. I'm huuge.";
+        playerDialog[17] = "I am the best climber. Everyone knows it. Everyone talks about me. I'm huuge.";
         playerDialog[18] = "I wonder if anyone else has made it up to the fire. Well, I guess someone had to start it.";
         playerDialog[19] = "What bozo put that fire on a wooden bridge. That doesn't seem like such a good idea.";
     }
